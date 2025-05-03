@@ -1,8 +1,8 @@
 ## Hi 👋
 ### I'm Abhigyan! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gyan-e)
 - 🔭 I’m currently working on [distributed-ecom](https://github.com/gyane14/distributed-ecom)
-- 🌱 I’m currently learning **System Design & Architecture**
-- 📝 Stay put with my portfolio `</under-progress>`
+- 🌱 Learning **System Design & Architecture**
+- 📝 Check this out [portfolio website](https://neelcant.netlify.app/)
 - 💬 Ask me about **C/C++(14+), Python, Go**
 - 📫 My DMs are open  [**abhigyanpal14@gmail.com**](mailto:abhigyanpal14@gmail.com)
 
